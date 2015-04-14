@@ -1,0 +1,104 @@
+Glutamate, the major excitatory neurotransmitter in the 
+mammalian central nervous system (CNS), activates two 
+types of ionotropic glutamate receptors (GluRs). Ac- 
+cording to their pharmacological properties, they are 
+termed ~-amino-3-hydroxy-5-methyl-4-isoxazolepropionate 
+(AMPA)/kainate receptors (or non-NMDARs) and N-methyl- 
+D-aspartate receptors (NMDARs). The two types of recep- 
+tors differ in several functional properties, including gating 
+kinetics, block by extracellular Mg 2÷, and permeability to 
+Ca 2+. Using cultured neurons from hippocampus and spi- 
+nal cord, Mayer and Westbrook (1987) estimated that the 
+relative Ca 2+ permeability of non-NMDARs is about 100- 
+fold lower than that of N MDARs (Pca/Prnonovalen~ of 0.15 and 
+10.6, respectively). 
+The view that non-NMDAR channels are almost imper- 
+meable to Ca 2÷ was challenged in 1990 by l ino and cowork- 
+ers. In the majority of cultured hippocampal neurons (type 
+I neurons), they found non-NMDARs with a low Ca 2+ per- 
+meability (Pca/P ...... ,ent of - 0.1) and a linear or outwardly 
+rectifying current-voltage (I-V) relation as described pre- 
+viously. Surprisingly, however, in a small unidentified sub- 
+set of cultured hippocampal neurons (type II neurons)non- 
+NMDARs exhibited high Ca 2÷ permeability (Pca/Pmonovalent 
+of -2) and an inwardly or doubly rectifying I-V relation 
+(lino et al., 1990) (Figure 1A). In both type I and type II 
+neurons, the non-NMDARs were subsequently identified 
+as AMPA receptors (AMPARs) on the basis of their phar- 
+macological profile (Ozawa and lino, 1993). 
+These results raise several questions. Which cell types 
+in the mature CNS express Ca2÷-permeable AMPARs? 
+What is the molecular basis of the differences in Ca 2+ per- 
+meability? What is the function of these Ca2÷-permeable 
+AMPARs in excitatory synaptic transmission? Five years 
+after the first description of Ca2÷-permeable AMPAR chan- 
+nels, some answers are available. 
+Recombinant Ca2+-Permeable AMPAR Channels 
+Four AMPAR subunits (GluR-A-GluR-D or GluR1-GluR4) 
+have been identified by molecular cloning (reviewed by 
+Hollmann and Heinemann, 1994). Heterologous expres- 
+sion of AMPAR subunits in Xenopus oocytes or human 
+embryonic kidney cells indicates that the functional prop- 
+erties of recombinant AMPARs are dependent on the sub- 
+unit composition. Homomeric channels assembled from 
+GluR-B subunits show normal behavior (Pca/Pmo~ov~ent of 
+0.1 and outwardly rectifying I-V relation). Receptors as- 
+sembled from GluR-A, -C, and -D subunits, however, are 
+highly permeable to Ca 2÷ (Pca/P ...... ,en, of -- 2) and show 
+a doubly rectifying I-V relation (Hollmann et al., 1991; Ver- 
+doorn et al., 1991; Burnashev et al., 1992a), resembling 
+the native AMPARs in type II neurons. AMPARs assem- 
+bled from GluR-A, -C, and -D subunits are permeable to 
+Mg 2+ and Ba 2+ as well as Ca 2÷ (Burnashev et al., 1992a; 
+Dingledine et al., 1992). In heteromeric combinations, 
+GluR-B is functionally dominant in determining the Ca 2÷ 
+permeability. Coexpression of GluR-B subunits and 
+GluR-A, -C, and -D subunits at equal proportions results 
+in the formation of recombinant channels with a low Ca 2÷ 
+permeability and an outwardly rectifying I-V relationship 
+(Hollmann et al., 1991; Verdoorn et al., 1991; Burnashev 
+et al., 1992a). 
+Comparison of the amino acid sequence of the GluR-B 
+subunit with that of the GluR-A, -C, and -D subunits reveals 
+a marked difference in the putative transmembrane seg- 
+ment M2. A positively charged arginine (R) is present at 
+position 586 of the GluR-B subunit, whereas a neutral glu- 
+tamine (Q) is found at the homologousposition in the other 
+subunits (reviewed by Hollmann and Heinemann, 1994). 
+This position is termed the Q/R site. Mutational analysis 
+indicates that the Ca 2÷ permeability of channels assem- 
+bled from GluR-B subunits in which the arginine is re- 
+placed by glutamine (GluR-B(R586Q)) is high, whereas 
+the Ca 2+ permeability of channels assembled from GluR-D 
+subunits in which the glutamine is replaced by arginine 
+(GluR-D(Q587R)) is low. Since these mutant channels 
+show reversed Ca 2÷ permeability as compared with chan- 
+nels assembled from the respective wild-type subunits, 
+the Q/R site appears to be the main site controlling divalent 
+ion permeation of recombinant AMPARs (Hume et al., 
+1991; Burnashev et al., 1992a; Dingledine et al., 1992). 
+The original concept of how the Ca 2÷ permeability of 
+recombinant AMPARs is regulated by the residue at the 
+Q/R site had to be modified in two important respects. 
+First, the genomic GluR-B DNA surprisingly contains a 
+glutamine codon at the Q/R site; the arginine codon is 
+introduced by editing of GluR-B pre-mRNA (Sommer et 
+al., 1991). Second, mapping of intra- and extracellular re- 
+gions of GluR subunit proteins by introducing reporter 
+sites indicates that the stretch of amino acids around the 
+Q/R site is not a transmembrane segment, but more likely 
+forms a pore loop extending into the aqueous pore from 
+the intracellular side (reviewed by MacKinnon, 1995). 
+Native Ca2+.Permeable AMPAR Channels 
+Native AMPARs are likely to be heteromers assembled 
+from GluR-A-GluR-D subunits. Since the expression of 
+GluR-B subunits determines the Ca 2÷ permeability of re- 
+combinant AMPARs in host cells, similar mechanisms 
+might operate in the CNS when native GluRs are assem- 
+bled. Until 1992, however, no direct evidence in favor of 
+this hypothesis was available. In situ hybridization with 
+GluR subunit-specific oligonucleotide probes indicates 
+that GluR-B mRNA is ubiquitously expressed in the CNS 
+(reviewed by Hollmann and Heinemann, 1994). Accord- 
+ingly, AMPARs in various types of principal neurons (e.g., 
+hippocampal pyramidal and granule neurons) exhibit low 
